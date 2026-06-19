@@ -22,7 +22,7 @@ Revenue increased substantially throughout 2017 and 2018, suggesting rapid marke
 
 Home, lifestyle and technology-related products generated the highest revenues.
 
-# Geographic Concentration
+## Geographic Concentration
 
 São Paulo accounted for the largest share of revenue, highlighting both market strength and concentration risk.
 
@@ -30,7 +30,7 @@ São Paulo accounted for the largest share of revenue, highlighting both market 
 
 Most deliveries occurred within 7-15 days, although some regions experienced significantly longer delivery times.
 
-#Example Visualisations
+##Example Visualisations
 <img width="1988" height="1164" alt="image" src="https://github.com/user-attachments/assets/23a2605e-1111-48b8-8b7c-22a401676af9" />
 <img width="2286" height="1158" alt="image" src="https://github.com/user-attachments/assets/fce790d6-85f8-45c8-b0a8-27165ef74142" />
 <img width="2320" height="1162" alt="image" src="https://github.com/user-attachments/assets/2ca4221a-e161-4f91-b82f-3f6fdfe9633d" />
