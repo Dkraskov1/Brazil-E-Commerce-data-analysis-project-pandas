@@ -1,4 +1,4 @@
-## Project Overview
+# Project Overview
 
 This project analyses the Olist Brazilian E-Commerce dataset using Python and pandas.
 
@@ -18,7 +18,7 @@ Revenue Growth
 
 Revenue increased substantially throughout 2017 and 2018, suggesting rapid marketplace expansion.
 
-# Product Categories
+## Product Categories
 
 Home, lifestyle and technology-related products generated the highest revenues.
 
@@ -26,7 +26,7 @@ Home, lifestyle and technology-related products generated the highest revenues.
 
 São Paulo accounted for the largest share of revenue, highlighting both market strength and concentration risk.
 
-# Logistics
+## Logistics
 
 Most deliveries occurred within 7-15 days, although some regions experienced significantly longer delivery times.
 
@@ -38,7 +38,7 @@ Most deliveries occurred within 7-15 days, although some regions experienced sig
 
 
 
-# Skills Demonstrated
+## Skills Demonstrated
 Data cleaning
 Data merging
 Exploratory data analysis
