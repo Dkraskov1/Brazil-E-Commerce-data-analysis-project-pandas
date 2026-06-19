@@ -39,10 +39,11 @@ Most deliveries occurred within 7-15 days, although some regions experienced sig
 
 
 ## Skills Demonstrated
-Data cleaning--
-Data merging--
-Exploratory data analysis--
-Groupby aggregations--
-Time-series analysis--
-Data visualisation--
-Business insight generation--
+Data cleaning<br/>
+Data merging<br/>
+Exploratory data analysis<br/>
+Groupby aggregations<br/>
+Time-series analysis<br/>
+Data visualisation<br/>
+Business insight generation<br/>
+
